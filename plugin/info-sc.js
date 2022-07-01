@@ -9,13 +9,13 @@
 let handler = async (m, { conn }) => {
 let ye = `@${m.sender.split`@`[0]}`
 let esce = `
-Hai ${ye} Lagi Nyari Sc Ya? 
+Hai ${ye} Lagi Mulung Sc Ya? 
 
 Nih Link Sc Nya Dibawah :
-https://youtu.be/AXPzjQ5jxx8
+https://youtube.com/channel/UCY6WNM6jZlmfWULcG69rNbQ
 
 _*Jangan Lupa Di Subscribe*_`
-conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
+conn.sendBut(m.chat, esce, wm3, 'Ok', 'Ok', m) 
 }
 handler.help = ['sc', 'sourcecode']
 handler.tags = ['info']
