@@ -1,16 +1,16 @@
 //=============『 Utama 』================== //
-global.owner = ['6285646606905'] 
+global.owner = ['6281946945315'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Asyraf 6Youu'
-global.numberowner = '6285646606905'
+global.numberowner = '6281946945315'
 global.instagram = 'https://instagram.com/asyrafsixyouu'
 global.github = 'https://github.com/Rafbotzbaru'
 global.dana = '085646606905'
 global.pulsa = '085646606905'
-global.gopay = '085646606905'
+global.gopay = '081946945315'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Raf Botz'
